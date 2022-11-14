@@ -1,13 +1,13 @@
 ### Hi there 👋 I am Bárbara Agra.
-🌱 I’m currently learning JavaScript, MongoDB, Express and NodeJS.
+🌱 I’m currently studyng to become a Full Stack Developer learning JavaScript, MongoDB, Express and NodeJS.
 ⚡ My background is in Digital Marketing and Advertisement.
 
-👾 <a href="https://barbaraagra.github.io/Dino_Era/">Dino Era</a>
+👾 RECENT PROJECTS: <a href="https://barbaraagra.github.io/Dino_Era/">Dino Era</a> • <a href="https://project2ironhacknov2022.herokuapp.com/start">WannaGo</a>
 
 <div align="center">
   <a href="https://github.com/barbaraagra">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barbaraagra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbaraagra&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barbaraagra&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbaraagra&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <!--
