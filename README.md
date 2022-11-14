@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I am Bárbara Agra.
+🌱 I’m currently learning JavaScript, MongoDB, Express and NodeJS.
+⚡ My background is in Digital Marketing and Advertisement.
+
+👾  <a href="https://barbaraagra.github.io/Dino_Era/">
+
+<div align="center">
+  <a href="https://github.com/barbaraagra">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=barbaraagra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbaraagra&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <!--
 **barbaraagra/barbaraagra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
