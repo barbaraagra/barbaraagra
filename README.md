@@ -2,7 +2,7 @@
 🌱 I’m currently learning JavaScript, MongoDB, Express and NodeJS.
 ⚡ My background is in Digital Marketing and Advertisement.
 
-👾 <a href="https://barbaraagra.github.io/Dino_Era/"></a>
+👾 <a href="https://barbaraagra.github.io/Dino_Era/">Dino Era</a>
 
 <div align="center">
   <a href="https://github.com/barbaraagra">
