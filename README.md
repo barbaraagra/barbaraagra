@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Bárbara Agra.
-🌱 I’m a Full Stack Developer, just graduated at Ironhack Bootcamp. I use JavaScript, MongoDB, Express and NodeJS.
+🌱 I’m a Full Stack Developer, just graduated from Ironhack Bootcamp. I use JavaScript, MongoDB, Express and NodeJS.
 ⚡ My background is in Digital Marketing and Advertisement.
 
 👾 RECENT PROJECTS: <a href="https://barbaraagra.github.io/Dino_Era/">Dino Era</a> • <a href="https://project2ironhacknov2022.herokuapp.com/start">WannaGo</a>
