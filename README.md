@@ -6,8 +6,8 @@
 
 #### ✉️ How to reach me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-caiomazur-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/barbaraagra/)](https://www.linkedin.com/in/barbaraagra/)
-[![Gmail Badge](https://img.shields.io/badge/-caiomazur1@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:babs.agra@gmail.com)](mailto:babs.agra@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-barbaraagra-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/barbaraagra/)](https://www.linkedin.com/in/barbaraagra/)
+[![Gmail Badge](https://img.shields.io/badge/-babs.agra@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:babs.agra@gmail.com)](mailto:babs.agra@gmail.com)
 
 <hr>
 
