@@ -1,5 +1,5 @@
 ### Hi there 👋 I am Bárbara Agra.
-🌱 Experienced digital marketeer and social media manager turned web developer. Passionate about creativity and code cracker!<br/>
+🌱 Experienced digital marketer and social media manager turned web developer, passionate about unleashing creativity and cracking code!<br/>
 ⚡ Full Stack Developer
 
 👾 RECENT PROJECTS: <a href="https://barbaraagra.github.io/Dino_Era/" target="_blank">Dino Era</a> • <a href="https://wannago.cyclic.app/" target="_blank">WannaGo</a> • <a href="https://nomadic-app.netlify.app/" target="_blank">Nomadic</a>
